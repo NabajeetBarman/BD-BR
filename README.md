@@ -5,7 +5,7 @@ Bjontegaard Delta Bitrate (BD-BR), proposed initially in 2001, remains one of th
 ## Download Link:
 
 The dataset is available on a per-request basis. 
-If you are interested, please email Nabajeet Barman (nabajeetbarman4@gmail.com, Nabajeet.Barman@kingston.ac.uk) to obtain further instructions on how to download the dataset.
+If you are interested, please email Nabajeet Barman (nabajeetbarman4@gmail.com, nbarman@brightcove.com) to obtain further instructions on how to download the dataset.
 
 ## Authors
 
