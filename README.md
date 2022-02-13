@@ -7,6 +7,13 @@ Bjontegaard Delta Bitrate (BD-BR), proposed initially in 2001, remains one of th
 The dataset is available on a per-request basis. 
 If you are interested, please email Nabajeet Barman (nabajeetbarman4@gmail.com, nbarman@brightcove.com) to obtain further instructions on how to download the dataset.
 
+## Link to the Implementations Used in this Work
+
+- ```(Python)``` Shengbin Meng. 2019. Bjontegaard Metric. https://pypi.org/project/bd-metric/.
+- ```(MATLAB)``` Serge. 2021. Bjontegaard metric calculation (BD-PSNR). https://www.mathworks.com/matlabcentral/fileexchange/41749-bjontegaardmetric-calculation-bd-psnr
+- ```(Excel)```  ETRO Tim Bruylants. 2016. ETRO’s Bjontegaard Metric implementation. https://github.com/tbr/bjontegaard_etro.
+- ```(SCENIC)``` Philippe Hanhart and Touradj Ebrahimi. 2014. SCENIC. https://github.com/phanhart/SCENIC
+
 ## Authors
 
 - Nabajeet Barman, Brightcove
